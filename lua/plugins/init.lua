@@ -35,6 +35,7 @@ return {
         "python-lsp-server",
         "mypy",
         "pydocstyle",
+        "isort",
         "black",
         "clangd",
         "cpplint",
