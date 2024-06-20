@@ -1,7 +1,6 @@
 local lint = require "lint"
 
 lint.linters_by_ft = {
-  lua = { "luacheck" },
   python = { "pydocstyle", "mypy" },
   cpp = { "cpplint" },
 }
