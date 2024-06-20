@@ -1,1 +1,1 @@
-## Nvchad neovim distribution configuration
+## Nvchad Neovim Configuration
