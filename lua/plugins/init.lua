@@ -33,7 +33,7 @@ return {
         "lua-language-server",
         "stylua",
         "luacheck",
-        "pyright@1.1.367",
+        "pyright",
         "mypy",
         "pydocstyle",
         "black",
