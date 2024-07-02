@@ -4,7 +4,7 @@ local on_init = require("nvchad.configs.lspconfig").on_init
 local capabilities = require("nvchad.configs.lspconfig").capabilities
 
 local lspconfig = require "lspconfig"
-local servers = { "pyright", "clangd", "lua_ls", "dockerls", "docker_compose_language_service" }
+local servers = { "pyright", "clangd", "dockerls", "bashls", "yamlls" }
 
 -- lsps with default config
 for _, lsp in ipairs(servers) do
