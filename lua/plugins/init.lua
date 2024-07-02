@@ -27,26 +27,6 @@ return {
   },
 
   {
-    "williamboman/mason.nvim",
-    opts = {
-      ensure_installed = {
-        "lua-language-server",
-        "stylua",
-        "python-lsp-server",
-        "mypy",
-        "pydocstyle",
-        "isort",
-        "black",
-        "clangd",
-        "cpplint",
-        "clang-format",
-        "dockerfile-language-server",
-        "docker-compose-language-service",
-      },
-    },
-  },
-
-  {
     "nvim-treesitter/nvim-treesitter",
     opts = {
       ensure_installed = {
